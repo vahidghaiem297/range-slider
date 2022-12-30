@@ -68,3 +68,9 @@ body{
     flex: 1;
     font-family: sans-serif;
 }
+@media(max-width:768px){
+  .wrap{
+    width: 300px;
+    left: 47%;
+  }
+}
